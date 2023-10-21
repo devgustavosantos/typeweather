@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "prepare": "husky install",
     "start": "concurrently 'npm:dev' 'npm:watch'",
     "watch": "nodemon --watch \"src\" --ext \"*\" --exec \"npm run concurrently\"",
     "concurrently": "concurrently 'npm:stylelint' 'npm:eslint' 'npm:prettier' 'npm:build'",
