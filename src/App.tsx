@@ -1,9 +1,10 @@
-import { Styles } from './styles/generic';
+import { Home } from './pages/Home';
+import { GeneralStyles } from './styles/GeneralStyles';
 
 export function App() {
   return (
-    <>
-      <Styles />
-    </>
+    <GeneralStyles>
+      <Home />
+    </GeneralStyles>
   );
 }
