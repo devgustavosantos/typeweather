@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "New York" },
+  { "id": 2, "name": "Los Angeles" },
+  { "id": 3, "name": "Chicago" },
+  { "id": 4, "name": "Houston" },
+  { "id": 5, "name": "Miami" },
+  { "id": 6, "name": "San Francisco" },
+  { "id": 7, "name": "Boston" },
+  { "id": 8, "name": "Seattle" },
+  { "id": 9, "name": "Austin" },
+  { "id": 10, "name": "Denver" }
+]
