@@ -1,6 +1,6 @@
 import { Spinner } from '../Spinner';
-import * as S from './styles';
-import { useSearch } from './use';
+import * as S from './Search.styles';
+import { useSearch } from './useSearch';
 
 export function Search() {
   const { isLoading, options } = useSearch();

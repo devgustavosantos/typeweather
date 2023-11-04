@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { InputProps } from './types';
+import { InputProps } from './Search.types';
 
 const Container = styled.div`
   outline: 0;
