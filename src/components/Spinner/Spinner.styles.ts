@@ -1,7 +1,7 @@
 import { SpinnerGap } from '@phosphor-icons/react';
 import styled from 'styled-components';
 
-import { SpinnerProps } from './type';
+import { SpinnerProps } from './Spinner.types';
 
 const Container = styled(SpinnerGap)<SpinnerProps>`
   color: ${({ theme }) => theme.BLUE_900};

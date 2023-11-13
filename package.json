@@ -17,7 +17,7 @@
     "lint-staged": "lint-staged",
     "commitizen": "cz",
     "commit": "git commit -m ''",
-    "stylelint": "stylelint ./src/**/styles.ts"
+    "stylelint": "stylelint ./src/**/**.styles.ts"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.0.14",
