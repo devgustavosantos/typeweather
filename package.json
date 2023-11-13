@@ -20,6 +20,7 @@
     "stylelint": "stylelint ./src/**/styles.ts"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.14",
     "nodemon": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

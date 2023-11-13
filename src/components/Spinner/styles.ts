@@ -1,4 +1,4 @@
-import { SpinnerGap } from 'phosphor-react';
+import { SpinnerGap } from '@phosphor-icons/react';
 import styled from 'styled-components';
 
 import { SpinnerProps } from './type';
